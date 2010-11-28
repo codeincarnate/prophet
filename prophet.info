@@ -1,0 +1,4 @@
+name = Prophet
+description = Prophet provides an API for interacting with the Cassandra database management system.
+core = 6.x
+version = 6.x-0.1
